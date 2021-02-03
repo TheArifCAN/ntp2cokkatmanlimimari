@@ -1,0 +1,14 @@
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\bin\Debug\verierisimkatmani.exe.config
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\bin\Debug\verierisimkatmani.exe
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\bin\Debug\verierisimkatmani.pdb
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\bin\Debug\EntityFramework.dll
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\bin\Debug\EntityFramework.xml
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\obj\Debug\verierisimkatmani.csprojAssemblyReference.cache
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\obj\Debug\verierisimkatmani.Properties.Resources.resources
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\obj\Debug\verierisimkatmani.csproj.GenerateResource.cache
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\obj\Debug\verierisimkatmani.csproj.CoreCompileInputs.cache
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\obj\Debug\verierisimkatmani.csproj.CopyComplete
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\obj\Debug\verierisimkatmani.exe
+C:\Users\arif0\source\repos\AdminPanel\verierisimkatmani\obj\Debug\verierisimkatmani.pdb
